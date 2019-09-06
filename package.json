@@ -1,0 +1,49 @@
+{
+  "name": "snykTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "autosize": "^4.0.2",
+    "axios": "^0.19.0",
+    "collections": "^5.1.9",
+    "date-fns": "^2.0.0-alpha.32",
+    "flexsearch": "^0.6.22",
+    "gsap": "^2.1.2",
+    "howler": "^2.1.2",
+    "hyperlist": "^1.0.0-beta",
+    "js-base64": "^2.5.1",
+    "js-cookie": "^2.2.0",
+    "metascraper": "^5.5.2",
+    "metascraper-description": "^5.5.0",
+    "metascraper-image": "^5.5.0",
+    "metascraper-title": "^5.5.0",
+    "nanoid": "^2.0.3",
+    "numeral": "^2.0.6",
+    "promise-retry": "^1.1.1",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-player": "^1.11.0",
+    "recompose": "^0.30.0",
+    "socket.io": "^2.2.0",
+    "styled-components": "^4.1.3",
+    "three": "^0.105.2",
+    "tippy.js": "^3.4.1",
+    "twemoji": "^12.0.4",
+    "universal-router": "^8.2.0",
+    "uri-js": "^4.2.2"
+  },
+  "devDependencies": {
+    "react-scripts": "2.1.8",
+    "why-did-you-update": "^1.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
