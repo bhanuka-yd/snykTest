@@ -1,0 +1,4 @@
+REQUEST_VER = "2.79.1"
+REQUEST_PROMISE_NATIVE_VER = "1.0.7"
+
+npm i request@$REQUEST_VER
